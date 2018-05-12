@@ -1,0 +1,30 @@
+_repo: Tales-from--Blackwood---Volume-5_35552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'Adventures in Texas -- How we got possession of the Tuileries: a
+  romance after the manner of Alexander Dumas -- Captain Paton''s lament -- The village
+  doctor / Countess d''Arbouville -- A singular letter from southern Africa, communicated
+  by Mr. Hogg, the Ettrick shepherd.'
+title: Tales from "Blackwood," Volume 5
+url: http://www.gutenberg.org/ebooks/35552
